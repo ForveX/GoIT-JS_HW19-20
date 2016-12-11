@@ -1,0 +1,22 @@
+{
+  "name": "GoIt19-20js",
+  "homepage": "https://github.com/ForveX/GoIT-JS_HW19-20",
+  "authors": [
+    "ForveX <elf295@gmail.com>"
+  ],
+  "description": "Homework",
+  "main": "main.js",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "normalize.css": "*",
+    "jquery": "2.*",
+  	"lodash": "*"
+  }
+}
